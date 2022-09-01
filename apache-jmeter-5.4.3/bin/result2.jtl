@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1658324439922,1975,HTTP Request,200,OK,Thread Group 1-1,text,true,,107556,115,1,1,https://igsindia.net/,1934,0,838
+1658324441899,705,HTTP Request,200,OK,Thread Group 1-1,text,true,,107530,115,1,1,https://igsindia.net/,653,0,0
+1658324442605,667,HTTP Request,200,OK,Thread Group 1-1,text,true,,107530,115,1,1,https://igsindia.net/,616,0,0
+1658324443273,690,HTTP Request,200,OK,Thread Group 1-1,text,true,,107530,115,1,1,https://igsindia.net/,639,0,0
+1658324443963,676,HTTP Request,200,OK,Thread Group 1-1,text,true,,107530,115,1,1,https://igsindia.net/,625,0,0

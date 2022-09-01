@@ -1,0 +1,22 @@
+2022-08-18 15:59:57,028 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2022-08-18 15:59:57,049 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2022-08-18 15:59:57,050 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2022-08-18 15:59:57,056 INFO o.a.j.JMeter: Copyright (c) 1998-2021 The Apache Software Foundation
+2022-08-18 15:59:57,056 INFO o.a.j.JMeter: Version 5.4.3
+2022-08-18 15:59:57,056 INFO o.a.j.JMeter: java.version=11.0.13
+2022-08-18 15:59:57,056 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2022-08-18 15:59:57,056 INFO o.a.j.JMeter: os.name=Windows 10
+2022-08-18 15:59:57,056 INFO o.a.j.JMeter: os.arch=amd64
+2022-08-18 15:59:57,056 INFO o.a.j.JMeter: os.version=10.0
+2022-08-18 15:59:57,056 INFO o.a.j.JMeter: file.encoding=Cp1252
+2022-08-18 15:59:57,057 INFO o.a.j.JMeter: java.awt.headless=null
+2022-08-18 15:59:57,057 INFO o.a.j.JMeter: Max memory     =4204789760
+2022-08-18 15:59:57,057 INFO o.a.j.JMeter: Available Processors =8
+2022-08-18 15:59:57,064 INFO o.a.j.JMeter: Default Locale=English (United States)
+2022-08-18 15:59:57,064 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2022-08-18 15:59:57,064 INFO o.a.j.JMeter: JMeterHome=D:\IGS\apache-jmeter-5.4.3
+2022-08-18 15:59:57,064 INFO o.a.j.JMeter: user.dir  =D:\IGS\apache-jmeter-5.4.3\bin
+2022-08-18 15:59:57,065 INFO o.a.j.JMeter: PWD       =D:\IGS\apache-jmeter-5.4.3\bin
+2022-08-18 15:59:57,066 INFO o.a.j.JMeter: IP: 172.31.99.133 Name: UBVPNN4834 FullName: host.docker.internal
+2022-08-18 15:59:57,208 INFO o.a.j.JMeter: Setting LAF to: laf:com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+2022-08-18 15:59:57,402 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties

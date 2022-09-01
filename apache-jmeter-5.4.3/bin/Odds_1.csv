@@ -1,0 +1,25 @@
+TablePosition1,Name1,Title1,Value1
+7,Rustam,Nat Win,5.1
+7,Rustam,Tie,9
+7,Rustam,Win,1
+7,Rustam,Loss,0.95
+8,Kateryna,Nat Win,5.1
+8,Kateryna,Tie,9
+8,Kateryna,Win,1
+8,Kateryna,Loss,0.95
+9,Oleksii,Nat Win,5.1
+9,Oleksii,Tie,9
+9,Oleksii,Win,1
+9,Oleksii,Loss,0.95
+1,Olesia,Loss 3+,1.2
+1,Olesia,Nat Win 3+,4.4
+1,Olesia,Tie 2+,11.5
+1,Olesia,Win 3+,1.2
+2,Marian,Nat Win,5.1
+2,Marian,Tie,9
+2,Marian,Win,1
+2,Marian,Loss,0.95
+3,Oksana,Nat Win,5.1
+3,Oksana,Tie,9
+3,Oksana,Win,1
+3,Oksana,Loss,0.95

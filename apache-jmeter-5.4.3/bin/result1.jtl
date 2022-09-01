@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1703" it="0" lt="1415" ct="753" ts="1655367462531" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="101939" sby="115" ng="1" na="1">
+  <java.net.URL>https://igsindia.net/</java.net.URL>
+</httpSample>
+<httpSample t="992" it="0" lt="665" ct="0" ts="1655367464238" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="101913" sby="115" ng="1" na="1">
+  <java.net.URL>https://igsindia.net/</java.net.URL>
+</httpSample>
+<httpSample t="917" it="0" lt="636" ct="0" ts="1655367465231" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="101913" sby="115" ng="1" na="1">
+  <java.net.URL>https://igsindia.net/</java.net.URL>
+</httpSample>
+<httpSample t="1073" it="0" lt="783" ct="0" ts="1655367466152" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="101913" sby="115" ng="1" na="1">
+  <java.net.URL>https://igsindia.net/</java.net.URL>
+</httpSample>
+<httpSample t="993" it="0" lt="733" ct="0" ts="1655367467225" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="101913" sby="115" ng="1" na="1">
+  <java.net.URL>https://igsindia.net/</java.net.URL>
+</httpSample>
+
+<httpSample t="1564" it="0" lt="1405" ct="764" ts="1655452160438" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="101939" sby="115" ng="1" na="1">
+  <java.net.URL>https://igsindia.net/</java.net.URL>
+</httpSample>
+<httpSample t="736" it="0" lt="653" ct="0" ts="1655452162008" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="101913" sby="115" ng="1" na="1">
+  <java.net.URL>https://igsindia.net/</java.net.URL>
+</httpSample>
+<httpSample t="749" it="0" lt="668" ct="0" ts="1655452162744" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="101913" sby="115" ng="1" na="1">
+  <java.net.URL>https://igsindia.net/</java.net.URL>
+</httpSample>
+<httpSample t="700" it="0" lt="655" ct="0" ts="1655452163494" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="101913" sby="115" ng="1" na="1">
+  <java.net.URL>https://igsindia.net/</java.net.URL>
+</httpSample>
+<httpSample t="750" it="0" lt="709" ct="0" ts="1655452164194" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="101913" sby="115" ng="1" na="1">
+  <java.net.URL>https://igsindia.net/</java.net.URL>
+</httpSample>
+
+<httpSample t="1494" it="0" lt="1335" ct="675" ts="1655461424323" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="105945" sby="115" ng="1" na="1">
+  <java.net.URL>https://igsindia.net/</java.net.URL>
+</httpSample>
+<httpSample t="787" it="0" lt="703" ct="0" ts="1655461425822" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="105919" sby="115" ng="1" na="1">
+  <java.net.URL>https://igsindia.net/</java.net.URL>
+</httpSample>
+<httpSample t="763" it="0" lt="680" ct="0" ts="1655461426610" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="105919" sby="115" ng="1" na="1">
+  <java.net.URL>https://igsindia.net/</java.net.URL>
+</httpSample>
+<httpSample t="729" it="0" lt="686" ct="0" ts="1655461427374" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="105919" sby="115" ng="1" na="1">
+  <java.net.URL>https://igsindia.net/</java.net.URL>
+</httpSample>
+<httpSample t="696" it="0" lt="654" ct="0" ts="1655461428103" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="105919" sby="115" ng="1" na="1">
+  <java.net.URL>https://igsindia.net/</java.net.URL>
+</httpSample>
+
+</testResults>

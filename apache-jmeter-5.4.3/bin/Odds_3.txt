@@ -1,0 +1,20 @@
+TablePosition3,Name3,Title3,Value3
+8,Kateryna,Tie,11.1
+8,Kateryna,Win,1.55
+8,Kateryna,winTiesPush,1.55
+8,Kateryna,Loss,0.64
+9,Oleksii,Tie,11.1
+9,Oleksii,Win,1.55
+9,Oleksii,winTiesPush,1.55
+9,Oleksii,Loss,0.64
+1,Olesia,Loss 3+,0.84
+1,Olesia,Tie 2+,19
+1,Olesia,Win 3+,1.96
+2,Marian,Tie,7.82
+2,Marian,Win,1.15
+2,Marian,winTiesPush,1.15
+2,Marian,Loss,0.86
+3,Oksana,Tie,6.17
+3,Oksana,Win,0.47
+3,Oksana,winTiesPush,0.47
+3,Oksana,Loss,2.1
